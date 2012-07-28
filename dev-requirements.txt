@@ -1,0 +1,8 @@
+# These packages are not necessary for running the application, but are
+# useful or necessary for certain aspects of development. This file
+# imports the application specific requirements.
+
+honcho==0.0.4
+Sphinx==1.1.3
+Fabric==1.4.2
+django-debug-toolbar==0.9.4
